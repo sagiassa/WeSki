@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 
 run the server side of the app on port 5050
 
-## Tailewind
+## Tailwindcss
 
 It's a library that helps building ui components. 
 You might need to install it after you run `npm i` the first time.
